@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YOYOCOOL-Blog</title>
+  
+  <subtitle>希望在25岁之前能找到坚定一生的信念</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-06-29T07:16:53.307Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Yoyocool</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一章 绪论</title>
+    <link href="http://example.com/undefined/dcf64845.html"/>
+    <id>http://example.com/undefined/dcf64845.html</id>
+    <published>2024-06-29T06:37:01.105Z</published>
+    <updated>2024-06-29T07:16:53.307Z</updated>
+    
+    
+    
+    
+    <category term="数据结构" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="算法" scheme="http://example.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
